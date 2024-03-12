@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Djethwa1
 - 👀 I’m interested in Information Technology
-- 🌱 I have done a bootcamp Data Science via Hyperiondev
+- 🌱 I have done a bootcamp in Data Science with Hyperiondev
 - 💞️ I’m looking to collaborate on writing code
 - 📫 How to reach me djethwa2002@yahoo.co.uk
 
